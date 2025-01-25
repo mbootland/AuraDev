@@ -16,3 +16,5 @@
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.DotSettings.user
+.idea
